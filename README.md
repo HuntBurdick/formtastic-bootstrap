@@ -3,6 +3,7 @@ formtastic-bootstrap
 
 Integrate formtastic with standard Bootstrap markup.
 
+
 Installation
 ====================
 
@@ -96,3 +97,10 @@ Example:
 	<h2>File Attachements</h2>
 
 <% end %>
+
+
+Notes
+====================
+
+More inputs to come (Country, hidden, etc..)
+Only tested with Rails 4 and the latest Formtastic
